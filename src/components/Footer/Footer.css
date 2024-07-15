@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    margin: 50px 170px;
+    flex-direction:column;
+    gap: 30px;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.footer-top-left p{
+    font-size: 20px;
+    max-width: 700px;
+}
+.footer-top-left img{
+    height: 100px;
+    width: 250px;
+}
+.footer-top-right p{
+    display: flex;
+    font-size: 20px;
+    gap: 35px;
+    max-width: 400px;
+}
